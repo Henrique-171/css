@@ -1,0 +1,22 @@
+body {
+    background-color: rgb(195, 0, 255);
+}
+
+h1 {
+    color:aquamarine
+
+}
+h3 {
+    color:azure
+}
+li {
+    color: rgb(3, 194, 242);
+}
+
+h2 {
+    background-color: rgb(255, 213, 0);
+    border: 2px solid;
+ }
+    #astronomi-class {
+        color: aliceblue;
+    }
